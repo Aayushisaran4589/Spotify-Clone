@@ -10,7 +10,7 @@ A front-end clone of the Spotify Web Player built using HTML and CSS.
 - 🔍 Sticky navigation bar
 - 📱 Responsive design for smaller screens
 
-## Screenshots
+## Preview
 
 ![Spotify Clone](spotify-clone-preview.png)
 
@@ -28,7 +28,7 @@ A front-end clone of the Spotify Web Player built using HTML and CSS.
 ## How to Run
 
 1. Clone the repository
-2. Open `index.html` in your browser
+2. Open 'index.html' in your browser
 
 ## Credits
 

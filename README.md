@@ -2,6 +2,10 @@
 
 A front-end clone of the Spotify Web Player built using HTML and CSS.
 
+## Live Demo
+
+ https://aayushisaran4589.github.io/Spotify-Clone/
+ 
 ## Features
 
 - 🎵 Music player footer with controls and progress bar
